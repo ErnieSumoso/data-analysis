@@ -59,7 +59,7 @@ To run the code you need at least the following components (R-Studio is optional
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ErnieSumoso/Python-Exercises.git
+   git clone https://github.com/ErnieSumoso/Data-Analysis.git
    ```
 2. Explore the files and enjoy!
 
