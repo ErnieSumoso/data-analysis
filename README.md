@@ -95,7 +95,7 @@ I am always open for any suggestions or recommendations on any of the files. Ple
 <!-- CONTACT -->
 ## Contact
 
-Ernie Sumoso - [GitHub Profile](https://github.com/ErnieSumoso)
+Ernie Sumoso - [GitHub Profile](https://github.com/ErnieSumoso) - [My Repositories](https://github.com/ErnieSumoso?tab=repositories)
 
 Project Link: https://github.com/ErnieSumoso/Data-Analysis
 
