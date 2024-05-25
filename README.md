@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ErnieSumoso/Data-Analysis">
-    <img src="media/project-icon.png" alt="Icon" width="80" height="80">
+  <a href="https://github.com/ErnieSumoso/data-analysis">
+    <img src="readme-files/project-icon.png" alt="Icon" width="80" height="80">
   </a>
 
 <h3 align="center">Data Analysis Repository</h3>
@@ -13,9 +13,9 @@
   If new types of analytics are performed, I will add new folders containing these analyses.
   <p align="center">
     <br />
-    <a href="https://github.com/ErnieSumoso/Data-Analysis/pulls">Pull Requests</a>
+    <a href="https://github.com/ErnieSumoso/data-analysis/pulls">Pull Requests</a>
     ·
-    <a href="https://github.com/ErnieSumoso/Data-Analysis/issues">Issues</a>
+    <a href="https://github.com/ErnieSumoso/data-analysis/issues">Issues</a>
   </p>
 </div>
 
@@ -23,7 +23,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="media/project-showcase.png" alt="Showcase" width="600">
+  <img src="readme-files/project-showcase.png" alt="Showcase" width="600">
 </div>
 This repository was originally created to store and track my learning process in data analysis, from descriptive to prescriptive.
 Over the months, I have added most of my data analyses, ranging from basic to complex, on large datasets up to 21k rows.
@@ -59,7 +59,7 @@ To run the code you need at least the following components (R-Studio is optional
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ErnieSumoso/Data-Analysis.git
+   git clone https://github.com/ErnieSumoso/data-analysis.git
    ```
 2. Explore the files and enjoy!
 
@@ -88,7 +88,7 @@ Here are some resources that I use for help:
 - [ ] Add new predictive analysis using large datasets composed of 20k+ rows.
 - [ ] Update the repository by adding previously performed data analyses that have not yet been uploaded.
 
-I am always open for any suggestions or recommendations on any of the files. Please, add them on the [issues section](https://github.com/ErnieSumoso/Python-Exercises/issues).
+I am always open for any suggestions or recommendations on any of the files. Please, add them on the [issues section](https://github.com/ErnieSumoso/data-analysis/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +97,7 @@ I am always open for any suggestions or recommendations on any of the files. Ple
 
 Ernie Sumoso - [GitHub Profile](https://github.com/ErnieSumoso) - [My Repositories](https://github.com/ErnieSumoso?tab=repositories)
 
-Project Link: https://github.com/ErnieSumoso/Data-Analysis
+Project Link: https://github.com/ErnieSumoso/data-analysis
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -105,6 +105,6 @@ Project Link: https://github.com/ErnieSumoso/Data-Analysis
 [python-url]: https://www.python.org/
 [jupyter-badge]: https://img.shields.io/badge/jupyter-book-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAMAAAAVHr4VAAAAXVBMVEX////v7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/v7+/zdybv7+/zdybv7+/v7+/zdybv7+/zdybv7+/zdyaSmqV2AAAAHXRSTlMAEBAgIDAwQEBQUGBgcHCAgJCQoLCwwMDQ4ODw8MDkUIUAAADJSURBVHjaddAFkgNBCAXQP+7uAvc/5tLFVseYF8crUB0560r/5gwvjYYm8gq8QJoyIJNwlnUH0WEnART6YSezV6c5tjOTaoKdfGXtnclFlEBEXVd8JzG4pa/LDql9Jff/ZCC/h2zSqF5bzf4vqkgNwEzeClUd8uMadLE6OnhBFsES5niQh2BOYUqZsfGdmrmbN+TMvPROHUOkde8sEs6Bnr0tDDf2Roj6fmVfubuGyttejCeLc+xFm+NLuLnJeFAyl3gS932MF/wBoukfUcwI05kAAAAASUVORK5CYII=
 [jupyter-url]: https://jupyter.org/
-[r-badge]: https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg
+[r-badge]: https://upload.wiki.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg
 [r-url]: https://www.r-project.org/
 
