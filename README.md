@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/ErnieSumoso/data-analysis">
@@ -8,9 +7,9 @@
   </a>
 
 <h3 align="center">Data Analysis Repository</h3>
-  I use this repository to store many of my data analyses, performed mostly on large datasets using Python.
+<b>### Final version - no additional updates planned ###</b> <br><br>
+  Repository used to store multiple notebooks containing data analysis in Python and R from various datasets.
   The repository is organized into folders by type of analytics: descriptive, diagnostic, exploratory, and predictive.
-  If new types of analytics are performed, I will add new folders containing these analyses.
   <p align="center">
     <br />
     <a href="https://github.com/ErnieSumoso/data-analysis/pulls">Pull Requests</a>
@@ -26,8 +25,8 @@
   <img src="readme-files/project-showcase.png" alt="Showcase" width="600">
 </div>
 This repository was originally created to store and track my learning process in data analysis, from descriptive to prescriptive.
-Over the months, I have added most of my data analyses, ranging from basic to complex, on large datasets up to 21k rows.
-The majority of these analyses were developed using JupyterLab for enhanced visualizations and development.
+Over the months, I have added most of my work, ranging from basic to complex, on large datasets up to 21k rows.
+The majority of these were developed using JupyterLab for enhanced usability and development.
 Feel free to explore and make suggestions on any of my solutions!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,32 +60,28 @@ To run the code you need at least the following components (R-Studio is optional
    ```sh
    git clone https://github.com/ErnieSumoso/data-analysis.git
    ```
-2. Explore the files and enjoy!
+2. Explore the files using JupyterLab / R-studio and enjoy!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Usage
 
-You can use this repository to explore the analysis yourself, try new approaches, and improve your data analysis skills!
+You can use this repository as a template to organize your own notebooks or explore my data analysis approach!
 
-Here are some resources that I use for help:
+These are some resources that I used for learning data analytics:
 
 - [Python 3 Documentation](https://docs.python.org/3/)
 - [Pandas 2 Documentation](https://pandas.pydata.org/docs/)
 - [Matplotlib 3.9 Documentation](https://matplotlib.org/stable/plot_types/index.html)
 - [Sci-kit Learn 1.4 Documentation](https://scikit-learn.org/stable/)
-- [Stack Overflow](https://stackoverflow.com/)
-- ... and many more!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Roadmap
-
-- [ ] Add more advanced descriptive and diagnostic analytics.
-- [ ] Add new predictive analysis using large datasets composed of 20k+ rows.
-- [ ] Update the repository by adding previously performed data analyses that have not yet been uploaded.
+- [✓] Upload the most recent versions of the notebooks.
+- [✓] Follow file naming conventions, and remove redundant content.
+- [✓] Complete the last update to the README file.
 
 I am always open for any suggestions or recommendations on any of the files. Please, add them on the [issues section](https://github.com/ErnieSumoso/data-analysis/issues).
 
@@ -96,8 +91,6 @@ I am always open for any suggestions or recommendations on any of the files. Ple
 ## Contact
 
 Ernie Sumoso - [GitHub Profile](https://github.com/ErnieSumoso) - [My Repositories](https://github.com/ErnieSumoso?tab=repositories)
-
-Project Link: https://github.com/ErnieSumoso/data-analysis
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
