@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/ErnieSumoso/data-analysis">
+  <a href="https://github.com/ErnieSumoso/data-analysis-notebooks">
     <img src="readme-files/project-icon.png" alt="Icon" width="80" height="80">
   </a>
 
@@ -12,9 +12,9 @@
   The repository is organized into folders by type of analytics: descriptive, diagnostic, exploratory, and predictive.
   <p align="center">
     <br />
-    <a href="https://github.com/ErnieSumoso/data-analysis/pulls">Pull Requests</a>
+    <a href="https://github.com/ErnieSumoso/data-analysis-notebooks/pulls">Pull Requests</a>
     ·
-    <a href="https://github.com/ErnieSumoso/data-analysis/issues">Issues</a>
+    <a href="https://github.com/ErnieSumoso/data-analysis-notebooks/issues">Issues</a>
   </p>
 </div>
 
@@ -58,7 +58,7 @@ To run the code you need at least the following components (R-Studio is optional
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ErnieSumoso/data-analysis.git
+   git clone https://github.com/ErnieSumoso/data-analysis-notebooks.git
    ```
 2. Explore the files using JupyterLab / R-studio and enjoy!
 
@@ -67,7 +67,7 @@ To run the code you need at least the following components (R-Studio is optional
 
 ## Usage
 
-You can use this repository as a template to organize your own notebooks or explore my data analysis approach!
+You can use this repository as a template to organize your own notebooks or to explore my various data analysis approaches!
 
 These are some resources that I used for learning data analytics:
 
@@ -83,7 +83,7 @@ These are some resources that I used for learning data analytics:
 - [✓] Follow file naming conventions, and remove redundant content.
 - [✓] Complete the last update to the README file.
 
-I am always open for any suggestions or recommendations on any of the files. Please, add them on the [issues section](https://github.com/ErnieSumoso/data-analysis/issues).
+I am always open for any suggestions or recommendations on any of the files. Please, add them on the [issues section](https://github.com/ErnieSumoso/data-analysis-notebooks/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
